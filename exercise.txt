@@ -28,3 +28,11 @@ use simple decision making statement if
 
 5) write a program to develop match making python program from male and female birth date as per  below link 
 https://i.pinimg.com/736x/5d/6d/79/5d6d798339b17a5248cd1d9e462dd03b.jpg
+
+
+-----------------------
+loop exercise 
+pattern 
+1) 2 4 6 8 ....1000
+2) 10 20 30 40 50 .... 1000
+3) 1 4 9 16 25 36 .... 1000
