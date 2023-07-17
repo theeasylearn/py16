@@ -10,3 +10,4 @@ while number>=1:
     factorial = number * factorial #5
     number = number - 1 #4
 print(factorial)
+
