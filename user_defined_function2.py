@@ -8,3 +8,4 @@ def get_current_date():
 
 current_date = get_current_date()
 print(current_date)
+
