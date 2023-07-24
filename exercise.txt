@@ -39,3 +39,16 @@ pattern
 
 
 https://i1.faceprep.in/fp/articles/img/55984_1580817324.png
+
+
+module
+----------------
+create module myconverter2 which has following function 
+
+get_KB(bytes) which return KB of given bytes
+get_MB(bytes) which return MB of given bytes
+get_GB(bytes) which return GB of given bytes
+get_TB(bytes) which return TB of given bytes
+
+call all above function from mymodule2.py file 
+
